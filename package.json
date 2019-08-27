@@ -2,7 +2,7 @@
   "name": "todoapp",
   "version": "0.1.0",
   "private": true,
-  "homepage": "http://cKone1.github.io/TodoList",
+  "homepage": "http://kyrillosezzat88.github.io/TodoList",
   "dependencies": {
     "react": "^16.8.4",
     "react-dom": "^16.8.4",
